@@ -1,4 +1,4 @@
-﻿using Easy.Solutions.Src.Objects;
+﻿using Shared.Common.Src;
 
 namespace Easy.Solutions.Src.Solutions
 {

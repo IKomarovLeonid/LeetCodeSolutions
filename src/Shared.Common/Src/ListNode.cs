@@ -1,9 +1,9 @@
-﻿namespace Easy.Solutions.Src.Objects
+﻿namespace Shared.Common.Src
 {
     public class ListNode
     {
         public int val;
-        public ListNode next; 
+        public ListNode next;
         public ListNode(int x) { val = x; }
     }
 }
