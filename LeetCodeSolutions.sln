@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29911.84
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{C12100ED-CD4F-4688-A92F-06F18F7A8379}"
 EndProject
@@ -9,15 +9,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{E548F6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{E4608E6C-C1E9-4A4E-B3CD-10C45C395552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy.Solutions", "src\Easy.Solutions\Easy.Solutions.csproj", "{BAE6D8A8-1F63-47A7-BC20-A15D483536FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Easy.Solutions", "src\Easy.Solutions\Easy.Solutions.csproj", "{BAE6D8A8-1F63-47A7-BC20-A15D483536FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medium.Solutions", "src\Medium.Solutions\Medium.Solutions.csproj", "{758B0DDA-B923-4615-89FE-464FFEDDF7DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medium.Solutions", "src\Medium.Solutions\Medium.Solutions.csproj", "{758B0DDA-B923-4615-89FE-464FFEDDF7DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{9C07120A-7812-496C-AFCB-41702F54329D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared.Common", "src\Shared.Common\Shared.Common.csproj", "{F043551B-1E4E-4BCF-87F4-3645E3A7E9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared.Common", "src\Shared.Common\Shared.Common.csproj", "{F043551B-1E4E-4BCF-87F4-3645E3A7E9AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard.Solutions", "src\Hard.Solutions\Hard.Solutions\Hard.Solutions.csproj", "{074CCC4E-5169-460C-A066-0DDD9F003CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hard.Solutions", "src\Hard.Solutions\Hard.Solutions\Hard.Solutions.csproj", "{074CCC4E-5169-460C-A066-0DDD9F003CE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{5593D7AF-E2A5-4E45-8D93-D21F7352EE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\App\Application\Application.csproj", "{A7ABC401-1886-482B-A2CF-832C35C33BB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{074CCC4E-5169-460C-A066-0DDD9F003CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{074CCC4E-5169-460C-A066-0DDD9F003CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{074CCC4E-5169-460C-A066-0DDD9F003CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7ABC401-1886-482B-A2CF-832C35C33BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7ABC401-1886-482B-A2CF-832C35C33BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7ABC401-1886-482B-A2CF-832C35C33BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7ABC401-1886-482B-A2CF-832C35C33BB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{758B0DDA-B923-4615-89FE-464FFEDDF7DB} = {E548F671-F51B-434A-B4F5-15ACFDF397FE}
 		{F043551B-1E4E-4BCF-87F4-3645E3A7E9AA} = {9C07120A-7812-496C-AFCB-41702F54329D}
 		{074CCC4E-5169-460C-A066-0DDD9F003CE4} = {E4608E6C-C1E9-4A4E-B3CD-10C45C395552}
+		{A7ABC401-1886-482B-A2CF-832C35C33BB9} = {5593D7AF-E2A5-4E45-8D93-D21F7352EE44}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1285116C-CB28-4A62-9DEC-98F76D4D88D6}

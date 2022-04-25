@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Medium.Solutions.Src.Solutions
+namespace Medium.Solutions.Solutions
 {
     public class StringtoIntegerAtoi_8
     {

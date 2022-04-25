@@ -1,6 +1,4 @@
-﻿using Shared.Common.Src;
-
-namespace Medium.Solutions.Src.Solutions
+﻿namespace Medium.Solutions.Solutions
 {
     public class RemoveNthNodeFromEndOfList_19
     {

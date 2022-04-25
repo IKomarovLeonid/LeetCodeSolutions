@@ -1,4 +1,4 @@
-﻿namespace Shared.Common.Src
+﻿namespace Shared.Common
 {
     public class ListNode
     {

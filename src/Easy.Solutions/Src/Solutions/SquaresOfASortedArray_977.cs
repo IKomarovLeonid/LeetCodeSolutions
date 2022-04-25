@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Easy.Solutions.Src.Solutions
+namespace Easy.Solutions.Solutions
 {
     public class SquaresOfASortedArray_977
     {

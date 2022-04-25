@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 
-namespace Medium.Solutions.Src.Solutions
+namespace Medium.Solutions.Solutions
 {
     public class linked_list_cycle_ii
     {

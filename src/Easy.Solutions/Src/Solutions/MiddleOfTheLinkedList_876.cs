@@ -1,6 +1,6 @@
-﻿using Shared.Common.Src;
+﻿using Shared.Common;
 
-namespace Easy.Solutions.Src.Solutions
+namespace Easy.Solutions.Solutions
 {
     class MiddleOfTheLinkedList_876
     {

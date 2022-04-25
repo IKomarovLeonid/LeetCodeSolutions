@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Hard.Solutions.Src
+namespace Hard.Solutions
 {
     public class MergeNSortedLinkedLists
     {

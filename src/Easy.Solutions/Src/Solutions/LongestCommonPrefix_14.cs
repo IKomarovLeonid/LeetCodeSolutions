@@ -11,7 +11,6 @@
 
         public string LongestCommonPrefix(string[] strs)
         {
-
             if (strs.Length == 1) return strs[0];
 
             var prefix = string.Empty;

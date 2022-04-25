@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Easy.Solutions.Src.Solutions
+namespace Easy.Solutions.Solutions
 {
     public class SetMismatch_645
     {

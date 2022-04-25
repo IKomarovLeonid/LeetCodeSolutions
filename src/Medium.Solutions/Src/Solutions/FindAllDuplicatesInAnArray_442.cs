@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace Medium.Solutions.Src.Solutions
+namespace Medium.Solutions.Solutions
 {
     public class FindAllDuplicatesInAnArray_442
     {

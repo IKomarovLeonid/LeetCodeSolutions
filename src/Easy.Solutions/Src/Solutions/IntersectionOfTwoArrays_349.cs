@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Easy.Solutions.Src.Solutions
+namespace Easy.Solutions.Solutions
 {
     public class IntersectionOfTwoArrays_349
     {

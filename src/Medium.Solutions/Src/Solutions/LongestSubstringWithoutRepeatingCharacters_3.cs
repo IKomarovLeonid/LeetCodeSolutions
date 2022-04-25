@@ -1,4 +1,4 @@
-﻿namespace Medium.Solutions.Src.Solutions
+﻿namespace Medium.Solutions.Solutions
 {
     public class LongestSubstringWithoutRepeatingCharacters_3
     {

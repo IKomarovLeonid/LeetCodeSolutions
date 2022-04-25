@@ -1,5 +1,4 @@
-﻿using System;
-namespace Easy.Solutions.Src.Solutions
+﻿namespace Easy.Solutions.Solutions
 {
     class ReverseString_344
     {

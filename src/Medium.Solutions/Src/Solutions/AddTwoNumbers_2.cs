@@ -1,6 +1,6 @@
-﻿using Shared.Common.Src;
+﻿using ListNode = Medium.Solutions.Solutions.ListNode;
 
-namespace Medium.Solutions.Src.Solutions
+namespace Medium.Solutions.Solutions
 {
     public class AddTwoNumbers_2
     {

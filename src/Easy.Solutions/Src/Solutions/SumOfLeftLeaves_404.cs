@@ -1,6 +1,4 @@
-﻿using Shared.Common.Src;
-
-namespace Easy.Solutions.Src.Solutions
+﻿namespace Easy.Solutions.Solutions
 {
     public class SumOfLeftLeaves_404
     {
