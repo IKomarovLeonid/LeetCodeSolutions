@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Easy.Solutions\Easy.Solutions.csproj" />
+    <ProjectReference Include="..\..\Hard.Solutions\Hard.Solutions\Hard.Solutions.csproj" />
+    <ProjectReference Include="..\..\Medium.Solutions\Medium.Solutions.csproj" />
+  </ItemGroup>
+
 </Project>
