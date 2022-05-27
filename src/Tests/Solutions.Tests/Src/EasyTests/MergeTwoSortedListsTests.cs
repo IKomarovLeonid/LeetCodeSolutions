@@ -1,10 +1,9 @@
 ﻿using System.Collections.Generic;
 using Easy.Solutions.Src.Solutions;
 using NUnit.Framework;
-using Shared.Common;
 using Shared.Common.Src;
 
-namespace Solutions.Tests.Src.EasyTests
+namespace Solutions.Tests.EasyTests
 {
     public class MergeTwoSortedListsTests
     {

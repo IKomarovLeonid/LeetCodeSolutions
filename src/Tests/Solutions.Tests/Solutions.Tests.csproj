@@ -17,10 +17,6 @@
     <None Remove="Src\Easy.Tests\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Src\" />
-    <Folder Include="Src\EasyTests\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\..\Easy.Solutions\Easy.Solutions.csproj" />
   </ItemGroup>
 </Project>
